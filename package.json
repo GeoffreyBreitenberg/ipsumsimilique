@@ -1,0 +1,44 @@
+{
+  "name": "ipsumsimilique",
+  "description": "Returns `true` if the given `string` or `array` ends with `suffix` using strict equality for comparisons.",
+  "version": "1.0.0",
+  "author": "LilianaNolan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeoffreyBreitenberg/ipsumsimilique.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GeoffreyBreitenberg/ipsumsimilique.git/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jonschlinkert/ends-with/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "^4.0.4",
+    "verb": ">= 0.2.6",
+    "ansi": "^0.3.0",
+    "benchmark": "^1.0.0",
+    "verb-tag-jscomments": ">= 0.2.0"
+  },
+  "keywords": [
+    "voluptas",
+    "end",
+    "unde",
+    "dolores",
+    "js",
+    "string",
+    "vitae",
+    "eum",
+    "utility",
+    "utils"
+  ],
+  "dependencies": {}
+}
